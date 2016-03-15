@@ -19,7 +19,7 @@ $ slc build
 ```
 
 ## Running on IBM Bluemix
-`cf push strongloopapi  -c “node server/server.js`
+cf push strongloopapi  -c “node server/server.js"
 
 The REST API URL on Bleumix then becomes 
 - http://strongloopapi.mybluemix.net/api/rest/hello
