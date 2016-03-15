@@ -13,8 +13,10 @@ $ node .
 - `http://localhost:3000/api/rest/operate?i=7&j=7` : Generate JSON object result: {"result": "14", "imeplementation": "StrongLoop"}
 
 ## Creating a build archive (create a portable archive, a tar (.tgz) file)
+```
 $ cd StrongLoop_REST_API
 $ slc build
+```
 
 ## Running on IBM Bluemix
 `cf push strongloopapi  -c “node server/server.js`
