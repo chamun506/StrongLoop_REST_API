@@ -27,7 +27,7 @@ The REST API URL on Bleumix then becomes
 
 ## Swagger API
 Run `http://localhost:3000/explorer` 
-or http://strongloopapi.mybluemix.net/explorer/ on bluemix
+or `http://strongloopapi.mybluemix.net/explorer/ on bluemix `
 
 ##Knowledge
 https://docs.strongloop.com/display/public/LB/Create+a+simple+API
